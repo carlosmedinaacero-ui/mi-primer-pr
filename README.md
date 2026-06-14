@@ -1,6 +1,6 @@
 # Mi Primer PR
 
-Este es un repositorio de practica para aprender el flujo de trabajo con GitHub.
+Este es un repositorio de práctica para aprender el flujo de trabajo con GitHub.
 
 ## Contenido
 
@@ -8,7 +8,7 @@ Este es un repositorio de practica para aprender el flujo de trabajo con GitHub.
 - Aprenderemos a hacer commits
 - Aprenderemos a abrir Pull Requests
 
-## Como contribuir
+## Cómo contribuir
 
 1. Crea una rama nueva
 2. Haz tus cambios
